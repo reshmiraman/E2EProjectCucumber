@@ -1,4 +1,4 @@
-package resources;
+package academy.resources;
 
 import java.io.File;
 import java.io.FileInputStream;

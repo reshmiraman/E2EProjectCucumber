@@ -1,14 +1,14 @@
-package stepDefinitions;
+package academy.stepdefinitions;
 
+import academy.pageobjects.LandingPage;
+import academy.pageobjects.LoginPage;
+import academy.pageobjects.PortalHomePage;
+import academy.resources.Base;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import junit.framework.Assert;
-import pageobjects.LandingPage;
-import pageobjects.LoginPage;
-import pageobjects.PortalHomePage;
-import resources.Base;
 
 public class StepDefinition extends Base {
 
